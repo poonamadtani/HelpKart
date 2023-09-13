@@ -1,0 +1,45 @@
+SMAP
+view_002dadmin_jsp.java
+JSP
+*S JSP
+*F
++ 0 view-admin.jsp
+admin/view-admin.jsp
++ 1 header.jsp
+admin/mytheme/header.jsp
++ 2 topbar.jsp
+admin/mytheme/topbar.jsp
++ 3 sidebar.jsp
+admin/mytheme/sidebar.jsp
++ 4 footer.jsp
+admin/mytheme/footer.jsp
++ 5 scripts.jsp
+admin/mytheme/scripts.jsp
+*L
+3,9:57
+11,8:66
+1#1,11:74
+18#0,5:85
+1#2,76:90
+22#0,2:165
+1#3,94:167
+23#0,14:261
+36,8:275
+43,21:283
+64,2:305
+65,3:307
+68:310,3
+69,2:313
+71:315,3
+72,2:318
+74:320,3
+75,2:323
+77:325,5
+78,3:330
+80,2:333
+81,13:335
+1#4:348
+93#0,3:349
+1#5,14:352
+95#0,3:366
+*E

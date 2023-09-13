@@ -1,0 +1,36 @@
+SMAP
+feedback_jsp.java
+JSP
+*S JSP
+*F
++ 0 feedback.jsp
+admin/feedback.jsp
++ 1 header.jsp
+admin/mytheme/header.jsp
++ 2 topbar.jsp
+admin/mytheme/topbar.jsp
++ 3 sidebar.jsp
+admin/mytheme/sidebar.jsp
++ 4 footer.jsp
+admin/mytheme/footer.jsp
++ 5 scripts.jsp
+admin/mytheme/scripts.jsp
+*L
+1,9:55
+1#1,11:64
+9#0,5:75
+1#2,76:80
+13#0,2:155
+1#3,94:157
+14#0,29:251
+43,8:281
+50,11:289
+61,5:301
+65,9:306
+74,5:316
+78,34:321
+1#4:355
+111#0,3:356
+1#5,14:359
+113#0,13:373
+*E

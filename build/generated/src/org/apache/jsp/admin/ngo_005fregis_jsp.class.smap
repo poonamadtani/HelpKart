@@ -1,0 +1,32 @@
+SMAP
+ngo_005fregis_jsp.java
+JSP
+*S JSP
+*F
++ 0 ngo_regis.jsp
+admin/ngo_regis.jsp
++ 1 header.jsp
+admin/mytheme/header.jsp
++ 2 topbar.jsp
+admin/mytheme/topbar.jsp
++ 3 sidebar.jsp
+admin/mytheme/sidebar.jsp
++ 4 footer.jsp
+admin/mytheme/footer.jsp
++ 5 scripts.jsp
+admin/mytheme/scripts.jsp
+*L
+1,5:53
+1#1,11:58
+5#0,5:69
+1#2,76:74
+9#0,2:149
+1#3,87:151
+10#0,29:238
+39,8:268
+46,64:276
+1#4:340
+109#0,3:341
+1#5,14:344
+111#0,9:358
+*E
